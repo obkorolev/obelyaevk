@@ -35,6 +35,8 @@ profiles:
     url: https://github.com/obkorolev
   - icon: brands/linkedin
     url: www.linkedin.com/in/olegbelyaevkorolev
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Oleg-Korolev-2
   - icon: academicons/google-scholar
     url: https://scholar.google.co.uk/citations?user=M7wfOdwAAAAJ&hl=en
   - icon: academicons/orcid
