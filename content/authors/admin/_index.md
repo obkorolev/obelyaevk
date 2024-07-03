@@ -50,14 +50,14 @@ interests:
 education:
   - area: PhD Marine Science and Technology
     institution: Cadiz University
-    date_start: 2024-01
+    date_start: 2024
     date_end: ''
     summary: |
       Antarctic Biogeochemistry and Remote Sensing research.
   - area: MSc in Oceanography
     institution: Cadiz University - ICMAN-CSIC
-    date_start: 2020-09
-    date_end: 2021-09
+    date_start: 2020
+    date_end: 2021
     summary: |
       Deep understanding of biological, physical, chemical and geological processes in the coastal oceanic systems.
 
@@ -68,8 +68,8 @@ education:
       - Geological oceanography
   - area: BSc Molecular Biology (Erasmus+)
     institution: Umeå University
-    date_start: 2018-09
-    date_end: 2019-06
+    date_start: 2018
+    date_end: 2019
     summary: |
       Advanced molecular biology and genetics laboratory techniques.
     
@@ -79,8 +79,8 @@ education:
       - Microbiology
   - area: BSc Biology
     institution: Alcala University
-    date_start: 2015-09
-    date_end: 2018-06
+    date_start: 2015
+    date_end: 2018
     summary: |
       Understanding of the basic structures and dynamics of living organisms and its interactions with their environment.
 work:
