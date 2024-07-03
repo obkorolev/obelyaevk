@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a person who has grown up among two different cultures and languages, allowed Oleg Belyaev to obtain a global vision and develop critical thinking, acquiring great ability in problem approaching and solving. Graduated in Biology and with a MSc in Coastal Oceanography, he is currently enrolled in a PhD program in Antarctic biogeochemistry research and earth observation in the DICHOSO project framework, at the Institute of Marine Sciences of Andalusia (CSIC).
