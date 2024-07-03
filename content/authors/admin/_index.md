@@ -43,21 +43,21 @@ profiles:
     url: https://orcid.org/0000-0002-8851-2996
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Sensing
+  - Antarctic Biogeochemistry
+  - Antarctic Ecology
 
 education:
   - area: PhD Marine Science and Technology
     institution: Cadiz University
-    date_start: 2024
-    date_end: 2027
+    date_start: 2024-01
+    date_end: ''
     summary: |
       Antarctic Biogeochemistry and Remote Sensing research.
   - area: MSc in Oceanography
     institution: Cadiz University - ICMAN-CSIC
-    date_start: 2020
-    date_end: 2021
+    date_start: 2020-09
+    date_end: 2021-09
     summary: |
       Deep understanding of biological, physical, chemical and geological processes in the coastal oceanic systems.
 
@@ -68,8 +68,8 @@ education:
       - Geological oceanography
   - area: BSc Molecular Biology (Erasmus+)
     institution: Umeå University
-    date_start: 2018
-    date_end: 2019
+    date_start: 2018-09
+    date_end: 2019-06
     summary: |
       Advanced molecular biology and genetics laboratory techniques.
     
@@ -79,33 +79,41 @@ education:
       - Microbiology
   - area: BSc Biology
     institution: Alcala University
-    date_start: 2015
-    date_end: 2018
+    date_start: 2015-09
+    date_end: 2018-06
     summary: |
       Understanding of the basic structures and dynamics of living organisms and its interactions with their environment.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Remote Sensing Scientist - Marine Strategies Project
+    company_name: ICMAN-CSIC
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-05
+    date_end: 2023-12
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Worked on satellite-based algorithms for the detection of marine heat events.
+      - Continued the development of the Andalusian Marine Observatory.
+  - position: Remote Sensing Scientist
+    company_name: Marine Institute - EUROSEA Project
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08
+    date_end: 2022-09
     summary: |
+      Collaboration at Galway’s Marine Institute within the framework of the EuroSea project for the development of an
+      observation and warning system for risks derived from extreme marine events.
+  - position: Remote Sensing Scientist - Sat4Algae Project
+    company_name: ICMAN-CSIC
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-11
+    date_end: 2023-03
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Generated satellite tools for the detection of algal blooms, focusing on both macroalgae and microalgae.
+      - Contributed to the development of the Andalusian Marine Observatory as part of the Sat4Algae project.
+      - Collaborated in multidisciplinary teams to enhance satellite-based environmental monitoring capabilities.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
