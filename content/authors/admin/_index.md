@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-As a person who has grown up among two different cultures and languages, allowed Oleg Belyaev to obtain a global vision and develop critical thinking, acquiring great ability in problem approaching and solving. Graduated in Biology and with a MSc in Coastal Oceanography, he is currently enrolled in a PhD program in Antarctic biogeochemistry research and earth observation in the DICHOSO project framework, at the Institute of Marine Sciences of Andalusia (CSIC).
+Having grown up among two different cultures and languages allowed Oleg Belyaev to obtain a global vision and develop critical thinking, acquiring great ability in problem approaching and solving. Graduated in Biology and with a MSc in Coastal Oceanography, he is currently enrolled in a PhD program in Antarctic biogeochemistry research and earth observation in the DICHOSO project framework, at the Institute of Marine Sciences of Andalusia (CSIC).
