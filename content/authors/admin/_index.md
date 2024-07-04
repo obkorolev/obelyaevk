@@ -18,7 +18,7 @@ highlight_name: true
 # Role/position/tagline
 role: Oceanographer and GIS Scientist
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Institute of Marine Sciences of Andalusia (CSIC)
     url: http://eo.csic.es/
@@ -29,12 +29,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:o.belyaev@csic.es'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/twitter
     url: https://twitter.com/OlegBelyaevK
   - icon: brands/github
     url: https://github.com/obkorolev
   - icon: brands/linkedin
-    url: www.linkedin.com/in/olegbelyaevkorolev
+    url: https://www.linkedin.com/in/olegbelyaevkorolev
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Oleg-Korolev-2
   - icon: academicons/google-scholar
@@ -156,7 +156,7 @@ languages:
     percent: 75
   - name: Portuguese
     percent: 25
-
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
