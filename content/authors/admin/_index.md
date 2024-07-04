@@ -51,7 +51,7 @@ education:
   - area: PhD Marine Science and Technology
     institution: Cadiz University
     date_start: 2024
-    date_end: ''
+    date_end: 
     summary: |
       Antarctic Biogeochemistry and Remote Sensing research.
   - area: MSc in Oceanography
