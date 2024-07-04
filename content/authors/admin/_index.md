@@ -50,14 +50,14 @@ interests:
 education:
   - area: PhD Marine Science and Technology
     institution: Cadiz University
-    date_start: 2024
-    date_end: 
+    date_start: 2024-01-01
+    date_end: 2027-01-01
     summary: |
       Antarctic Biogeochemistry and Remote Sensing research.
   - area: MSc in Oceanography
     institution: Cadiz University - ICMAN-CSIC
-    date_start: 2020
-    date_end: 2021
+    date_start: 2020-09-15
+    date_end: 2021-09-15
     summary: |
       Deep understanding of biological, physical, chemical and geological processes in the coastal oceanic systems.
 
@@ -68,8 +68,8 @@ education:
       - Geological oceanography
   - area: BSc Molecular Biology (Erasmus+)
     institution: Umeå University
-    date_start: 2018
-    date_end: 2019
+    date_start: 2018-09-15
+    date_end: 2019-09-15
     summary: |
       Advanced molecular biology and genetics laboratory techniques.
     
@@ -79,8 +79,8 @@ education:
       - Microbiology
   - area: BSc Biology
     institution: Alcala University
-    date_start: 2015
-    date_end: 2018
+    date_start: 2015-09-15
+    date_end: 2018-09-15
     summary: |
       Understanding of the basic structures and dynamics of living organisms and its interactions with their environment.
 work:
@@ -88,8 +88,8 @@ work:
     company_name: ICMAN-CSIC
     company_url: ''
     company_logo: ''
-    date_start: 2023-05
-    date_end: 2023-12
+    date_start: 2023-05-01
+    date_end: 2023-12-31
     summary: |2-
       Responsibilities include:
       - Worked on satellite-based algorithms for the detection of marine heat events.
@@ -107,8 +107,8 @@ work:
     company_name: ICMAN-CSIC
     company_url: ''
     company_logo: ''
-    date_start: 2021-11
-    date_end: 2023-03
+    date_start: 2021-11-15
+    date_end: 2022-07-31
     summary: |2-
       Responsibilities include:
       - Generated satellite tools for the detection of algal blooms, focusing on both macroalgae and microalgae.
