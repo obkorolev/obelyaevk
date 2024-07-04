@@ -98,8 +98,8 @@ work:
     company_name: Marine Institute - EUROSEA Project
     company_url: ''
     company_logo: ''
-    date_start: 2022-08
-    date_end: 2022-09
+    date_start: 2022-08-01
+    date_end: 2022-08-31
     summary: |
       Collaboration at Galway’s Marine Institute within the framework of the EuroSea project for the development of an
       observation and warning system for risks derived from extreme marine events.
