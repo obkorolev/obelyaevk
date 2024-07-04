@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As an Earth Observation and Antarctic Biogeochemistry researcher at the Institute of Marine Sciences of Andalusia, I am committed to advancing our understanding of the complex interactions between Earth's systems and more specifically, the unique Antarctic environment. With a strong focus on Antarctic Ecology, Remote Sensing, and Biochemistry, my research endeavors aim to uncover the underlying processes governing this fascinating and rapidly changing ecosystem.
     design:
       columns: '1'
   - block: collection
