@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1288610/full
+url_pdf: 'https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1288610/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
