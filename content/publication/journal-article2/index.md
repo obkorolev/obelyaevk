@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Marine Science volume 10*"
+publication: "*Nature Communications volume 14, Article number: 1781 (2023)*"
 publication_short: ""
 
 abstract: This work presents the steps followed in the design and implementation of a marine observatory that provides the current state and forecast of oceanic conditions relevant to the aquaculture sector. Examples of successful implementation of these guidelines are presented in the framework of the EuroSea project (H2020 grant agreement No. 862626) for two aquaculture sites: Deenish Island in Ireland and El Campello in Spain. In-situ essential ocean measurements, remote-sensing observations and modelled forecasts are jointly provided to the aquaculture end users. The process begins with stakeholder interaction to understand their main needs and concerns, followed by software architecture design and development to facilitate data acquisition, post-processing and visualization on an open-access web platform. User input regarding the development of the observatory and web platform content and frequent feedback are of paramount importance during the whole process to ensure that the services offered match the needs of the aquaculture sector.
