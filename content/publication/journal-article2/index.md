@@ -1,5 +1,5 @@
 ---
-title: "An observational and warning system for the aquaculture sector}."
+title: "An observational and warning system for the aquaculture sector."
 authors:
 - Pereiro D.
 - **Belyaev O.**
