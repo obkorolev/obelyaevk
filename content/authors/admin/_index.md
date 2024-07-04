@@ -51,7 +51,7 @@ education:
   - area: PhD Marine Science and Technology
     institution: Cadiz University
     date_start: 2024-01-01
-    date_end: 2027-01-01
+    date_end: ''
     summary: |
       Antarctic Biogeochemistry and Remote Sensing research.
   - area: MSc in Oceanography
@@ -94,8 +94,8 @@ work:
       Responsibilities include:
       - Worked on satellite-based algorithms for the detection of marine heat events.
       - Continued the development of the Andalusian Marine Observatory.
-  - position: Remote Sensing Scientist
-    company_name: Marine Institute - EUROSEA Project
+  - position: Remote Sensing Scientist - EUROSEA Project
+    company_name: Marine Institute 
     company_url: ''
     company_logo: ''
     date_start: 2022-08-01
