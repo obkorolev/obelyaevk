@@ -5,11 +5,10 @@ event: IX Spanish Space Students Conference
 event_url: https://eventos.upm.es/15467/detail/ix-congreso-spanish-space-students.html
 location: School of Aeronautical and Space Engineering 
 address:
-  city: Madrid
-  country: Spain
+  city: Madrid, Spain
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A deep dive into aerospace, exploring avionics, space law, and private sector innovations with top industry experts.
+abstract: 'The conference features key discussions on aerospace topics including avionics, space law, spacecraft innovations, and private sector involvement. Notable sessions include talks by industry experts from Airbus, GMV, ESA, and a roundtable on the new paradigm of private space exploration.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
