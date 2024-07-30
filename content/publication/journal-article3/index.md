@@ -1,5 +1,5 @@
 ---
-title: "The contribution of penguin guano to the Southern Ocean iron pool."
+title: "Marine heatwaves in a shifting Southern Ocean induce dynamical changes in primary production"
 authors:
 - Manuel Fernández-Barba
 - admin
@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-023-37132-5.pdf
+url_pdf: https://www.nature.com/articles/s43247-024-01553-x.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
