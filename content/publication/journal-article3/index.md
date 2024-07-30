@@ -26,10 +26,10 @@ publication_short: ""
 abstract: Marine heatwaves are discrete, albeit prolonged, episodes of extreme ocean temperatures that are significantly impacting marine ecosystems worldwide. However, there is limited research solely focusing on marine heatwaves and their concomitant effects on ecosystem dynamics in the Southern Ocean, known to play a major role in the Earth’s climate system. Here we use daily high-resolution satellite-derived and modelled data from 1982 to 2021 to characterise general spatiotemporal patterns of marine heatwaves in the Southern Ocean, assess their physical drivers and explore their interconnections with marine biogeochemistry. We find that increasing climate change-related marine heatwave activity, primarily explained by sea-air heat fluxes and vertical diffusion anomalies, enhances net primary production through stabilization of the water column. We empirically reveal causal nonlinear relationships between ocean extremes and primary productivity, especially in the southernmost subantarctic areas where the concurrent sea ice decrease also plays a key role. Furthermore, our study shows zonally asymmetric responses of primary producers to changing physical conditions north of the Antarctic polar front. These results provide key insights into the role of marine heatwaves promoting carbon assimilation (and uptake) in the Southern Ocean through the biological carbon pump, which is crucial for constraining the oceanic carbon cycle under climate change.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Marine heatwaves, prolonged extreme ocean temperatures, impact ecosystems in the Southern Ocean. This study uses data from 1982-2021 to analyze these heatwaves, finding that they increase net primary production by stabilizing the water column. This process, driven by sea-air heat fluxes and vertical diffusion, enhances carbon assimilation, especially with decreasing sea ice.
 
 tags:
-- Source Themes
+- Featured publications
 featured: true
 
 # links:
