@@ -27,10 +27,10 @@ publication_short: ""
 abstract: Iron plays a crucial role in the high-nutrient, low-chlorophyll Southern Ocean regions, promoting phytoplankton growth and enhancing atmospheric carbon sequestration. In this area, iron-rich Antarctic krill (*Euphausia superba*) and baleen whale species, which are among their main predators, play a large role in the recycling of iron. However, penguins have received limited attention despite their representing the largest seabird biomass in the southern polar region. Here, we use breeding site guano volumes estimated from drone images, deep learning-powered penguin census, and guano chemical composition to assess the iron export to the Antarctic waters from one of the most abundant penguin species, the Chinstrap penguin (*Pygoscelis antarcticus*). Our results show that these seabirds are a relevant contributor to the iron remobilization pool in the Southern Ocean. With an average guano concentration of 3 mg iron g<sup>−1</sup>, we estimate that the Chinstrap penguin population is recycling 521 tonnes iron yr<sup>−1</sup>, representing the current iron contribution half of the amount these penguins were able to recycle four decades ago, as they have declined by more than 50% since then.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Iron is crucial for phytoplankton growth and carbon sequestration in the Southern Ocean. This study highlights the role of Chinstrap penguins (Pygoscelis antarcticus) in iron recycling, using drone imagery and guano analysis. The penguins contribute 521 tonnes of iron per year, though this has halved over 40 years due to population decline.
 
 tags:
-- Source Themes
+- Featured publications
 featured: true
 
 # links:
