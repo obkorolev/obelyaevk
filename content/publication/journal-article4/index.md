@@ -2,15 +2,20 @@
 title: "The contribution of penguin guano to the Southern Ocean iron pool."
 authors:
 - admin
-- Sparaventi E.
+- Huertas I. E.
 - Navarro G.
-- Rodríguez-Romero A.
+- Amaya-Vías S.
+- De La Paz M.
+- Sparaventi E.
+- Heredia S.
+- Sukekava C. F.
+- Laglera L. M.
 - Tovar-Sánchez A.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-04-11T00:00:00Z"
-doi: "https://doi.org/10.1038/s41467-023-37132-5"
+date: "2024-08-17T00:00:00Z"
+doi: "https://doi.org/10.3389/fmars.2024.1432122"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,23 +26,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications volume 14, Article number: 1781 (2023)*"
+publication: "*Frontiers in Marine Science volume 11 (2024)*"
 publication_short: ""
 
-abstract: Iron plays a crucial role in the high-nutrient, low-chlorophyll Southern Ocean regions, promoting phytoplankton growth and enhancing atmospheric carbon sequestration. In this area, iron-rich Antarctic krill (*Euphausia superba*) and baleen whale species, which are among their main predators, play a large role in the recycling of iron. However, penguins have received limited attention despite their representing the largest seabird biomass in the southern polar region. Here, we use breeding site guano volumes estimated from drone images, deep learning-powered penguin census, and guano chemical composition to assess the iron export to the Antarctic waters from one of the most abundant penguin species, the Chinstrap penguin (*Pygoscelis antarcticus*). Our results show that these seabirds are a relevant contributor to the iron remobilization pool in the Southern Ocean. With an average guano concentration of 3 mg iron g<sup>−1</sup>, we estimate that the Chinstrap penguin population is recycling 521 tonnes iron yr<sup>−1</sup>, representing the current iron contribution half of the amount these penguins were able to recycle four decades ago, as they have declined by more than 50% since then.
+abstract: Deception Island (DI) is an active volcanic caldera in the South Shetland Islands, Antarctica, with an inner bay, Port Foster, formed by an ancient eruption. The bay’s seafloor hydrofracture system contains hydrothermal seeps and submarine vents, which are a source of trace metals (TMs) like Fe, Ni, Co, V, and greenhouse gases (GHGs) such as CO₂ and CH₄. This study presents measurements of TMs and GHGs in Port Foster’s surface waters during January–February 2021 to characterize their spatial distribution. TMs concentrations in the northeastern region of the bay, particularly V (74 nM), Fe (361 nM), Co (3.9 nM), and Ni (17.2 nM), were generally higher than in the Southern Ocean, likely due to hydrothermal activity. As some TMs such as Fe are scarce in the SO and limit primary productivity, inputs of these nutrients from DI into surrounding waters may also regionally promote increased primary productivity. Higher surface temperature (ST), elevated partial pressure of CO₂ (pCO₂), and lower salinity were found near submarine fumaroles, with ST positively correlated with pCO₂ and negatively with salinity. Although hydrothermal sites showed localized CO₂ outgassing, the bay overall acted as a CO₂ sink, with a median flux of -2.78 mol m⁻² yr⁻¹ with an interquartile range (IQR) of 3.84 mol m⁻² yr⁻¹. CH₄ highest concentration levels were found in the southeastern sector. The median concentration was 8.9 nM with an IQR of 1.9 nM, making Port Foster a regional net CH₄ source with a median flux of 9.7 μmol m⁻² d⁻¹ and an IQR of 3.4 μmol m⁻² d⁻¹. Ultimately, the analysis of spatial patterns of the measured variables suggested that fumaroles of DI may be playing a significant role in the alteration of regional seawater biogeochemistry.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study investigates the spatial distribution of trace metals and greenhouse gases in Port Foster, Deception Island, highlighting the significant role of hydrothermal activity in regional seawater biogeochemistry.
 
 tags:
-- Source Themes
+- Featured publications
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-023-37132-5.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1432122/pdf
+url_code: 'https://github.com/obkorolev/Port_Foster_Paper'
 url_dataset: ''
 url_poster: ''
 url_project: ''
